@@ -1,4 +1,6 @@
-﻿using System;
+﻿using DataStructures.BinaryTree;
+using System;
+using System.Diagnostics;
 
 namespace ConsoleProgram
 {
@@ -6,7 +8,7 @@ namespace ConsoleProgram
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+           
         }
     }
 }
